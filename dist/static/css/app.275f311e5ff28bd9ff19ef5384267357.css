@@ -1,0 +1,36 @@
+
+#app[data-v-3b8ea682] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-3b8ea682] {
+  min-height: 100vh;
+}
+*[data-v-3b8ea682] {
+  transition: all .3s;
+}
+
+.styleEditor[data-v-b4c4f818]{
+  font-size: 14px;
+}
+.code[data-v-b4c4f818] {
+  display: none;
+}
+
+.htmlMode[data-v-1f6f7918] {
+  animation: flip 2s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+/*# sourceMappingURL=app.275f311e5ff28bd9ff19ef5384267357.css.map*/

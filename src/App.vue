@@ -48,9 +48,9 @@ html {
   font-size: 4em
 }
 /* 代码高亮 */
-.token.selector{ color: rgb(133,153,0); }
-.token.property{ color: rgb(187,137,0); }
-.token.punctuation{ color: yellow; }
+.token.selector{ color: rgb(166,226,46); }
+.token.property{ color: rgb(72,190,239); }
+.token.punctuation{ color: rgb(153,87,78) }
 .token.function{ color: rgb(42,161,152); }
 
 /* 加点 3D 效果呗 */
@@ -90,6 +90,9 @@ html{
 /* 再对 HTML 加点样式 */
 .resumeEditor{
   padding: 2em;
+}
+.resumeEditor img{
+  width: 100%;
 }
 .resumeEditor h2{
   display: inline-block;
@@ -147,16 +150,17 @@ html{
 * [GitHub](https://github.com/szy1000)
 * [我的文章](http://blog.csdn.net/u011456552)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/szy1000/resume.git)，打造你自己的简历！
 写在最后
 ---
 如果您是人事，请仔细比对我的薪资要求与贵公司的预算。
 如果您是技术，麻烦读一下的博客和down一份我的源码。能力的与否也就这些！
 如果不合适，对不起！我的简历打扰到您了，抱歉！
-如果技术，不嫌弃的话，麻烦您给颗star 在走呗！谢谢啊！
+如果技术，不嫌弃的话，麻烦您给颗star 再走呗！谢谢啊！
 show一下我的藏书
 ---
-![my book](https://github.com/szy1000/resume/pic/book.jpg)
+可以致电 15821603214 免费借阅哦！
+![my book](https://raw.githubusercontent.com/szy1000/resume/master/pic/book.jpg)
 
 `
       }
